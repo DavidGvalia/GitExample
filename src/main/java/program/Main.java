@@ -6,8 +6,12 @@ public class Main {
         System.out.println(message);
         int x = 200;
         int y = 5;
+
     }
     public void method(){
         System.out.println("Привет из удаленки!");
+    }
+    public void message(){
+        System.out.println("Мы в методе main");
     }
 }
