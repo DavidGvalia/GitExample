@@ -6,7 +6,4 @@ public class Main {
         System.out.println(message);
         int x = 10;
     }
-    public void sum(int x, int y){
-        System.out.println(x+y);
-    }
 }
