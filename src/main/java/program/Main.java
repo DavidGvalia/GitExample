@@ -7,6 +7,6 @@ public class Main {
         int x = 10;
     }
     public void method(){
-        System.out.println("");
+        System.out.println("Привет из удаленки!");
     }
 }
