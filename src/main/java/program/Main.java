@@ -6,4 +6,7 @@ public class Main {
         System.out.println(message);
         int x = 10;
     }
+    public void method(){
+        System.out.println("");
+    }
 }
