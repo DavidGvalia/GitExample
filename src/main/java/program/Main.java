@@ -5,6 +5,7 @@ public class Main {
         String message = "Hello!";
         System.out.println(message);
         int x = 10;
+        int y = 5;
     }
     public void method(){
         System.out.println("Привет из удаленки!");
