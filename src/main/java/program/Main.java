@@ -12,6 +12,9 @@ public class Main {
     public void method(){
         System.out.println("Привет из удаленки!");
     }
+    public int sum(int x, int y){
+        return x + y;
+    }
     public void message(){
         System.out.println("Мы в методе main");
     }
