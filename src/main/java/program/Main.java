@@ -6,7 +6,8 @@ public class Main {
         System.out.println(message);
         int x = 200;
         int y = 5;
-
+        int z = x+y;
+        System.out.println(z);
     }
     public void method(){
         System.out.println("Привет из удаленки!");
